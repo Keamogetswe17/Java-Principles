@@ -1,9 +1,7 @@
 /*
 
 NEO KEAMOGETSWE NOANA
-223098576
-GROUP OA(PPG115D)
-Ms.W.Birch
+
 
 */
 
@@ -39,5 +37,6 @@ public static void displaySalary(double salary)
 {
 	System.out.println(salary);
 }
+
 
 }//end of class
