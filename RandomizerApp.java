@@ -1,9 +1,6 @@
 /*
 
 NEO KEAMOGETSWE NOANA
-223098576
-GROUP OA(PPG115D)
-Ms.W.Birch
 
 */
 
@@ -45,4 +42,5 @@ public class RandomizerApp
         return random.nextInt((350) + 1);
 	
 	}
+
 }
