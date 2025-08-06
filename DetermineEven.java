@@ -1,9 +1,6 @@
 /*
 
 NEO KEAMOGETSWE NOANA
-223098576
-GROUP OA(PPG115D)
-Ms.W.Birch
 
 */
 
@@ -59,4 +56,5 @@ public class DetermineEven
 	}//end of even method
 	
 	
+
 }//end of class
