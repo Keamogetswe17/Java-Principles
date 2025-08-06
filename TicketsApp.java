@@ -1,9 +1,7 @@
 /*
 
 NEO KEAMOGETSWE NOANA
-223098576
-GROUP OA(PPG115D)
-Ms.W.Birch
+
 
 */
 import java.util.Scanner;
@@ -50,5 +48,6 @@ public static int totalPrice(int tickets, int price1,int special1, int special2)
 	return cost;
 
 }//end of TOTALPRICE 
+
 
 }//end of class
