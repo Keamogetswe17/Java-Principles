@@ -1,9 +1,7 @@
 /*
 
 NEO KEAMOGETSWE NOANA
-223098576
-GROUP OA(PPG115D)
-Ms.W.Birch
+
 
 */
 
@@ -35,4 +33,5 @@ public class PerimeterApp
 		return perimeter;
 	}//END OF METHOD
 	
+
 }//end of Class
