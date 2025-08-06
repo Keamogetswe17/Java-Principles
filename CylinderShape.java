@@ -1,9 +1,7 @@
 /*
 
 NEO KEAMOGETSWE NOANA
-223098576
-GROUP OA(PPG115D)
-Ms.W.Birch
+
 
 */
 
@@ -96,4 +94,5 @@ public static void displayValues(double height, double radius, double area, doub
 
 	
 	
+
 }//end of class
